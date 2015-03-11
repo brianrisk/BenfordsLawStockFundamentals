@@ -1,0 +1,8 @@
+/bin/
+
+/score-histogram.tsv
+/fake-score-histogram.tsv
+
+/benford-outlier-ranges.csv
+
+.DS_Store
